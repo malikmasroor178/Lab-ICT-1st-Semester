@@ -1,0 +1,23 @@
+INPUT DEVICES - 5 Examples
+Name | One Line Use | Wired or Wireless
+1. Keyboard | For typing | Wired
+2. Mouse | For clicking and selecting | Wireless
+3. Scanner | To convert paper into digital form | Wired
+4. Microphone | To record voice | Wireless
+5. Webcam | For video calls | Wired
+
+OUTPUT DEVICES - 5 Examples
+Name | One Line Use | Wired or Wireless
+1. Monitor | To see on screen | Wired
+2. Printer | To print on paper | Wireless
+3. Speaker | To listen to sound | Wireless
+4. Headphones | To listen to sound alone | Wireless
+5. Projector | To show big screen | Wired
+
+STORAGE DEVICES - 5 Examples
+Name | One Line Use | Wired or Wireless
+1. USB Flash Drive | To save data | Wired
+2. Hard Disk | To save large data | Wired
+3. SSD | To save data fast | Wired
+4. Memory Card | To save mobile data | Wireless
+5. CD/DVD | To save movies or software | Wired

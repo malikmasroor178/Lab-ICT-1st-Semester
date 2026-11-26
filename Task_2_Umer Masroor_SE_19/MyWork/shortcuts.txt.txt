@@ -1,0 +1,8 @@
+1. Windows + E - Opened File Explorer
+2. Ctrl + Shift + N - Created new folder
+3. Windows + R + notepad - Opened Notepad
+4. Ctrl + S - Saved the file
+5. Ctrl + C - Copied the file
+6. Ctrl + V - Pasted the file
+7. F2 - Renamed copied file to backup.txt
+8. Delete - Deleted original file
